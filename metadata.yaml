@@ -1,0 +1,30 @@
+_repo: Northwest-_38069
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38069-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: Though he was born in England and spent much of his life in that country,
+  author Harold Bindloss is remembered as one of the foremost chroniclers of the pioneer
+  era in Canada. The novel Northwest! follows protagonist Jimmy Leyland as he attempts
+  to find his fortune -- and perhaps romance -- in the Canadian countryside.
+gutenberg_issued: '2011-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Canadian Rockies (B.C. and Alta.) -- Fiction'
+title: Northwest!
+url: http://www.gutenberg.org/ebooks/38069
